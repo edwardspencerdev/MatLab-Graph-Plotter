@@ -1,2 +1,2 @@
 # MatLab-Graph-Plotter
-A simple tool to plot graphs in MatLab
+A script tool to plot simple graphs in MatLab
